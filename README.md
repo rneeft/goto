@@ -1,11 +1,11 @@
-# OOTO for PowerShell
+# GOTO for PowerShell
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simpel but helpful script that sets the current working location in PowerShell to a location of the specified label.
 
 ## How to install
 Use the following commands to install the script
-```
+```powershell
 # Download the source code
 git clone https://github.com/rneeft/goto.git
 # Remove the git connection (Optional)
