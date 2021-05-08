@@ -28,11 +28,6 @@ $locations =
   "git", "c:\git\"
   ;  
 
-<#
-.Description
-    'GOTO' a simpel helper script to get you fast where you need to go
-#> 
-
 $location = $args[0]
 if ($location -eq "help" -or $location -eq "-help" -or $location -eq "--help") {
   Write-Host "Where do you want to go today?"
